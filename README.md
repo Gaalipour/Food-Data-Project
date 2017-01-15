@@ -13,4 +13,3 @@
 * Git - version control
 * Node - Programming Environment
 * PostgreSQL - Database
-* Sqitch - Data Change Management
