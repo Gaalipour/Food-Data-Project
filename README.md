@@ -1,4 +1,4 @@
-# Food-Data-Project
+# Food Recommendation Project
 
 ##Summary of Data Set:
 
@@ -8,3 +8,9 @@
 
 ##Method of Recommendation:
 * Content Filtering
+
+## Tools:
+* Git - version control
+* Node - Programming Environment
+* PostgreSQL - Database
+* Sqitch - Data Change Management
